@@ -1,0 +1,15 @@
+Used Version -- 3.11.14
+
+pip install opencv-python
+pip install keras
+pip install tensorflow
+pip install scikit-learn
+pip install matplotlib
+pip install pywhatkit
+pip install ultralytics
+pip install pandas
+pip install openpyxl
+pip install mutagen
+pip install gtts
+pip install pyglet
+
